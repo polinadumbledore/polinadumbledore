@@ -1,16 +1,27 @@
-## Hi there 👋
+# Polina Karpova
 
-<!--
-**polinadumbledore/polinadumbledore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist & Technical Manager** at **SberEducation**  
+**Computational Linguistics** — HSE University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Stack  
+Python • NLTK • spaCy • Gensim • Transformers  
+scikit-learn • pandas • numpy • LangChain • Streamlit  
+ELAN • Fundamentals of PyTorch, Praat, R, and SQL  
+
+---
+
+### 📚 Research & Professional Interests  
+- Speech Recognition  
+- Diarization  
+- Low-Resource NLP  
+- Applied NLP  
+- Large Language Models (LLMs)  
+- Conversational AI  
+- Agentic Systems  
+
+---
+
+### 📬 Get in Touch  
+📧 karpovaapollinaria@gmail.com  
