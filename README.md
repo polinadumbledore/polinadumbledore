@@ -1,27 +1,28 @@
 # Polina Karpova
 
-**Data Scientist & Technical Manager** at **SberEducation**  
-**Computational Linguistics** — HSE University
+Data Scientist & Technical Manager at **SberEducation**  
+Bachelor’s degree in Computational Linguistics — **HSE University**
 
 ---
 
-### 🛠 Technical Stack  
-Python • NLTK • spaCy • Gensim • Transformers  
-scikit-learn • pandas • numpy • LangChain • Streamlit  
-ELAN • Fundamentals of PyTorch, Praat, R, and SQL  
+### 🛠 Tech Stack
+- Python, basic R, SQL  
+- NLTK, spaCy, Gensim, Transformers  
+- scikit-learn, pandas, numpy, basic PyTorch  
+- LangChain, Streamlit, ELAN, basic Praat  
 
 ---
 
-### 📚 Research & Professional Interests  
+### 🧠 Interests
 - Speech Recognition  
 - Diarization  
 - Low-Resource NLP  
 - Applied NLP  
-- Large Language Models (LLMs)  
+- LLMs  
 - Conversational AI  
 - Agentic Systems  
 
 ---
 
-### 📬 Get in Touch  
-📧 karpovaapollinaria@gmail.com  
+### 📬 Contact  
+karpovaapollinaria@gmail.com
